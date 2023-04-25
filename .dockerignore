@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+.gitignore
+.git/
+node_modules/
+.env
+.env-example
+dist/
+jest.config.js
+
+
